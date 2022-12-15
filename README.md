@@ -5,27 +5,30 @@
 
 <br>
 
-<div align='center'>
-<img  src='./img/Arte.png' width='350'/>
-</div>
+<img  align='right' src='./img/Arte.png' width='350'/>
 
 <br>
 
-<div align='center'>
+<div align='left'>
 
+  
 ## Seja bem vindo! Eu sou Alex de Matos 👋
 ### Front-End Developer & UI/UX Designer ✨
 
 <br>
+ 
 <a href="https://www.linkedin.com/in/alex-dmb/" target="_blank">
 <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
 <a href="https://google.com.br" target="_blank">
 <img src='https://img.shields.io/static/v1?label=&message=Portfolio&color=A5ACDF&style=for-the-badge'/>
 </a>
+ 
 </div>
 
-
+<br>
+<br>
+<br>
 <br>
 
 ## Tecnologias que eu utilizo nos meus projetos 🚀
